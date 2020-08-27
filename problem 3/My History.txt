@@ -1,0 +1,146 @@
+    1  passwd
+    2  exit
+    3  mkdir bin
+    4  mkdir scripts
+    5  mkdir projects
+    6  ls
+    7  exit
+    8  ls
+    9  exit
+   10  vi
+   11  ls
+   12  ls -l
+   13  clear
+   14  ls
+   15  mkdir assignments
+   16  cd assignments
+   17  ls
+   18  mkdir trgn_assignment1
+   19  ls
+   20  cd trgn_assignment1
+   21  ls
+   22  echo "#trgn510_assignment1" >> README.md
+   23  git init
+   24  git add README.md
+   25  git commit -m "first commit"
+   26  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   27  git push -u origin master
+   28  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   29  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   30  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   31  git push -u origin master
+   32  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   33  git push -u origin master
+   34  clear
+   35  ls
+   36  git commit -m "first commit"
+   37  git config --global user.name "Nina Song"
+   38  git config --global user.name "Nina-Song"
+   39  git config --global user.email "songjiar@usc.edu"
+   40  git add README.md
+   41  git commit -m "first commit"
+   42  git remote add origin https://github.com/davcraig75/trgn510_assignment1.git
+   43  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   44  git push -u origin master
+   45  cd ~
+   46  exit
+   47  ls
+   48  cd assignments
+   49  ls
+   50  cd trgn_assignment1
+   51  git commit -m "first commit"
+   52  echo "#trgn510_assignment1" >> README.md
+   53  git init
+   54  vi README.md
+   55  git add . -A
+   56  git commit -m "First commit"
+   57  git push origin master
+   58  get remote -v
+   59  git remote -v
+   60  git remote rm origin
+   61  git remote -v
+   62  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   63  git push -u origin master
+   64  git push origin master
+   65  git remote -v
+   66  git push --force origin master
+   67  git pull
+   68  git remote -v
+   69  git remote rm origin
+   70  git remote -v
+   71  git remote add origin https://github.com/Nina-Song/trgn510_assignment1.git
+   72  git push -u origin master
+   73  vi README.md
+   74  git add .-A
+   75  git add. -A
+   76  git add . -A
+   77  git commit -m "First commit"
+   78  ls
+   79  git push origin master
+   80  mkdir problem1
+   81  cd problem1
+   82  history
+   83  history > myhistory.txt
+   84  ls
+   85  cd trgn_assignment1
+   86  cd
+   87  cd trgn_assignment1
+   88  cd ~/assignments/trgn_assignment1
+   89  mkdir problem2
+   90  cs problem2
+   91  cd problem2
+   92  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/.
+   93  cd trgn_assignment1
+   94  cd ~/assignments/trgn_assignment1/
+   95  rmdir problem2
+   96  ls
+   97  .
+   98  mkdir problem2
+   99  ls
+  100  cd problem 2
+  101  cd problem2
+  102  cp cp /home/bashrc ~/assignments/trgn_assignment1/problem2/.
+  103  cp home/data/bashrc ~/assignments/trgn_assignment1/problem2/.
+  104  cp /data/bashrc ~/assignments/trgn_assignment1/problem2/.
+  105  cp /home/data/bashrc ~/assignments/trgn_assignment1/problem2/.
+  106  cd ~/assignments/trgn_assignment1/problem2/.
+  107  ls -la
+  108  cat /etc/*release
+  109  vi bashrc
+  110  source bashrc
+  111  cp ~/assignments/trgn_assignment1/problem2/bashrc ~/.bashrc
+  112  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+  113  vim
+  114  cat /etc/*release | head
+  115  cat /ect/*release | head -1
+  116  cat /etc/*release | head -1
+  117  vim
+  118  vi bashrc
+  119  cat /etc/*release | head
+  120  source bashrc
+  121  vi bashrc
+  122  $source bashrc
+  123  source bashrc
+  124  vi bashrc
+  125  source bashrc
+  126  vi bashrc
+  127  source bashrc
+  128  vim
+  129  cp vimrc ~/.vimrc
+  130  vi
+  131  cd
+  132  cd ~/assignments/trgn_assignment1/
+  133  mkdir problem3
+  134  ls
+  135  cd problem3
+  136  cd ..
+  137  rmdir problem3
+  138  mkdir problem\ 3
+  139  ls -l
+  140  cd problem\ 3
+  141  history
+  142  history > My\ history.txt
+  143  ls
+  144  rm My\ history.txt
+  145  ls
+  146  history > My\ History.txt

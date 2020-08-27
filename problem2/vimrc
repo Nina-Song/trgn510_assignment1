@@ -5,7 +5,7 @@ set novisualbell
 set showmatch
 syntax enable
 
-colorscheme desert
+colorscheme PaperColor
 set background=dark
 
 set ffs=unix,dos,mac

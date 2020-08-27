@@ -1,1 +1,6 @@
 # My processes
+root      26940   2718  0 03:18 ?        00:00:00 sshd: ninasong [priv]
+ninasong  26953  26940  0 03:18 ?        00:00:00 sshd: ninasong@pts/0
+ninasong  26955  26953  0 03:18 pts/0    00:00:00 -bash
+ninasong  36120  26955  0 05:35 pts/0    00:00:00 ps -ef
+ninasong  36121  26955  0 05:35 pts/0    00:00:00 grep --color=auto ninasong
